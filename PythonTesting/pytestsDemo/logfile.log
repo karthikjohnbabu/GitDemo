@@ -1,0 +1,26 @@
+2020-06-03 14:14:40,801 :INFO : pytestsDemo.test_logging : Information Statement
+2020-06-03 14:14:40,801 :WARNING : pytestsDemo.test_logging : once the automation script finds a negative value in bank account warning will be generated
+2020-06-03 14:14:40,801 :ERROR : pytestsDemo.test_logging : A major error has happened
+2020-06-03 14:14:40,801 :CRITICAL : pytestsDemo.test_logging : Critical issue
+2020-06-03 14:15:21,862 :INFO : pytestsDemo.test_logging : Information Statement
+2020-06-03 14:15:21,862 :WARNING : pytestsDemo.test_logging : once the automation script finds a negative value in bank account warning will be generated
+2020-06-03 14:15:21,862 :ERROR : pytestsDemo.test_logging : A major error has happened
+2020-06-03 14:15:21,862 :CRITICAL : pytestsDemo.test_logging : Critical issue
+2020-06-03 15:36:35,714 :INFO : pytestsDemo.BaseClass : Rahul
+2020-06-03 15:36:35,714 :INFO : pytestsDemo.BaseClass : Rahulshettyacademy.com
+2020-06-03 15:38:53,782 :INFO : pytestsDemo.BaseClass : Rahul
+2020-06-03 15:38:53,782 :INFO : pytestsDemo.BaseClass : Rahulshettyacademy.com
+2020-06-03 15:39:44,183 :INFO : pytestsDemo.BaseClass : Rahul
+2020-06-03 15:39:44,183 :INFO : pytestsDemo.BaseClass : Rahulshettyacademy.com
+2020-06-03 15:40:28,312 :INFO : test_editProfile : Rahul
+2020-06-03 15:40:28,312 :INFO : test_editProfile : Rahulshettyacademy.com
+2020-06-03 15:42:10,976 :INFO : test_editProfile : Rahul
+2020-06-03 15:42:10,976 :INFO : test_editProfile : Rahulshettyacademy.com
+2020-06-03 15:42:10,999 :INFO : pytestsDemo.test_logging : Information Statement
+2020-06-03 15:42:10,999 :WARNING : pytestsDemo.test_logging : once the automation script finds a negative value in bank account warning will be generated
+2020-06-03 15:42:10,999 :ERROR : pytestsDemo.test_logging : A major error has happened
+2020-06-03 15:42:11,000 :CRITICAL : pytestsDemo.test_logging : Critical issue
+2020-07-12 19:23:37,005 :INFO : pytestsDemo.test_logging : Information Statement
+2020-07-12 19:23:37,005 :WARNING : pytestsDemo.test_logging : once the automation script finds a negative value in bank account warning will be generated
+2020-07-12 19:23:37,005 :ERROR : pytestsDemo.test_logging : A major error has happened
+2020-07-12 19:23:37,005 :CRITICAL : pytestsDemo.test_logging : Critical issue
