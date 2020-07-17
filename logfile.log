@@ -1,0 +1,11 @@
+2020-07-16 19:58:54,871 :INFO : test_formSubmussion :First name isKarthik
+2020-07-16 19:58:55,839 :INFO : test_formSubmussion :First name isRoshini
+2020-07-16 19:58:55,839 :INFO : test_formSubmussion :First name isRoshini
+2020-07-16 19:59:03,953 :INFO : test_e2e :Getting all the card titles
+2020-07-16 19:59:04,000 :INFO : test_e2e :iphone X
+2020-07-16 19:59:04,020 :INFO : test_e2e :Samsung Note 8
+2020-07-16 19:59:04,036 :INFO : test_e2e :Nokia Edge
+2020-07-16 19:59:04,054 :INFO : test_e2e :Blackberry
+2020-07-16 19:59:04,334 :INFO : test_e2e :Entering country name as India
+2020-07-16 19:59:10,267 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
